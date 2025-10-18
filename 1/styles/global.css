@@ -23,7 +23,7 @@ body::before {
     opacity: 0.3;
     pointer-events: none;
     z-index: 9999;
-} */
+}*/
 
 a,
 p,
@@ -46,7 +46,8 @@ h3 {
 }
 
 img {
-    min-width: 100%;
+    max-width: 100%;
+    height: auto;
     display: block;
 }
 
